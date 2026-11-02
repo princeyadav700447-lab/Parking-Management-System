@@ -1,3 +1,10 @@
+#name = Prince Raj
+#email = prince.raj6@rungta.org
+#erp = RU-26-02734
+#section = B2
+#PS no. = 26
+
+
 """
 PS No. 26 - Parking Management System
 Run: python3 one.py

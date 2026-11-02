@@ -1,8 +1,5 @@
 [
-    {
-        "vehicle_number": "JH10HA8823",
-        "type": "bike"
-    },
+    null,
     null,
     null,
     null,
