@@ -40,3 +40,8 @@ Test cases:
    status -> 5 of 5 slots free.
 
 Entry validation accepts common Indian registration formats.
+
+Project Mentor
+Mentored by: Mr. Satyaprakash Sethy
+GitHub: @SATYAPRAKASHSETHY
+*Role:* Python Mentor / Technical Guide
